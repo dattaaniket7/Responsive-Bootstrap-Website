@@ -44,6 +44,10 @@ body {
 	background-color: #563d76;
 	border: 1px solid #563d76;
 }
+.jumbotron {
+	padding: 1rem;
+	border-radius: 0;
+}
 
 /*---Media Queries --*/
 @media (max-width: 992px) {
