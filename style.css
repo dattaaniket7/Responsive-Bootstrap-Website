@@ -62,6 +62,21 @@ body {
 	margin-top: .3rem;
 	margin-bottom: 1rem;
 }
+.fa-code {
+	color: #e54d26;
+}
+.fa-bold {
+	color: #563d76;
+}
+.fa-css3 {
+	color: #2163af;
+}
+.fa-code,
+.fa-bold,
+.fa-css3 {
+	font-size: 4em;
+	margin: 1rem;
+}
 
 /*---Media Queries --*/
 @media (max-width: 992px) {
